@@ -1,1 +1,1 @@
-# Heart_Disease_Prediction_Model
+This repository contains code for a machine learning model that predicts the likelihood of heart disease based on various health-related features. The model is built using logistic regression and is implemented as an interactive web application using Streamlit. The app allows users to input their health information and receive a prediction regarding the presence or absence of heart disease.
